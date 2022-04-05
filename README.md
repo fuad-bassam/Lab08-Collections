@@ -1,4 +1,3 @@
-# Lab08-Collections
 
 # Y&M Library
 ## In this lab we created our own Lending Library filled with Books, and a Backpack to hold borrowed Books.
@@ -17,3 +16,4 @@
 **Test window**:
 
 ![image](./images/test.PNG)
+
